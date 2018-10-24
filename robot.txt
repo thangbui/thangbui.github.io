@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Disallow: /thang/docs/talks/
+Disallow: /thang/jem/
+Disallow: /thang/pics/
+Disallow: /thang/disallow/
+Disallow: /thang/disallow/slides/

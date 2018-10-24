@@ -1,0 +1,106 @@
+# jemdoc: addcss{style/thang.css}
+= Thang Bui
+
+~~~
+# {}{img_left}{pics/T_Bui.jpg}{Thang Bui}
+# [http://mlg.eng.cam.ac.uk/thang/ Thang Bui], 
+former (4th, 3rd, 2nd, 1st year) PhD student\n
+[http://mlg.eng.cam.ac.uk Machine Learning Group] \n
+[http://cbl.eng.cam.ac.uk Computational and Biological Learning Lab] \n
+[http://www.cam.ac.uk University of Cambridge]\n\n
+Supervisor: [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] \n
+Advisor: [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen] \n\n
+#[docs/T_Bui_CV.pdf CV] [http://github.com/thangbui/ github] [https://twitter.com/thdbui twitter @thdbui]
+~~~
+
+#== News
+#- 10/2017: Our work on unifying GP approximations using Power-EP has been accepted to JMLR.
+#- 09/2017: Streaming approximations for Gaussian process regression and classification [https://arxiv.org/abs/1705.07131 arxiv] accepted to NIPS 2017.
+#- 08/2017: I will present our work on online GP inference and learning at the [http://roseyu.com/time-series-workshop/ ICML Time Series workshop] in Sydney.
+#- 03-current/2017: I am working on [http://github.com/thangbui/geepee geepee], a package that can handle sparse deterministic approximations (using Power-EP, variational free-energy, and approximate Power-EP aka. black-box alpha) for Gaussian process models (including regression, classification, latent variable models, state space models and deep GPs).
+#- 06/2017 Current highlight: Streaming approximations for Gaussian process regression and classification [https://arxiv.org/abs/1705.07131 arxiv].
+#- 12-2016 Three extended abstracts have been accepted to NIPS workshops on approximate Bayesian inference and Bayesian deep learning.
+#- 06-09/2016 Internship @ Google (Machine Intelligence)
+#- 06/2016 Current highlight: Power-EP for sparse Gaussian processes for regression, classification, latent variable models [https://arxiv.org/abs/1605.07066 arxiv].
+#- 04/2016 Two papers accepted to ICML [http://arxiv.org/abs/1602.04133 Deep GPs] and [http://arxiv.org/abs/1511.03243 Black-box \alpha] + one workshop paper on Power-EP for GP state space models. 
+#- 03/2016 Current highlight: Deep Gaussian processes for regression [http://arxiv.org/abs/1602.04133 arxiv].
+#- 12-2015 Our work on Design of covariance functions using inter-domain inducing variables won the *Best Paper award* at [https://sites.google.com/site/nipsts2015/home the NIPS time series workshop]
+#- 11-2015 Five extended abstracts have been accepted to NIPS workshops on approximate Bayesian inference, black-box inference and time series. These are joint works with these awesome collaborators [http://jmhl.org/ José Miguel Hernández-Lobato], [http://dhnzl.org/ Daniel Hernández-Lobato], [http://yingzhenli.net/home/en/ Yingzhen Li], [http://www.cmm.uchile.cl/?cmm_people=felipe-tobar Felipe Tobar] and [http://cbl.eng.cam.ac.uk/Public/Turner/Turner Rich Turner].
+#- 09-2015 I helped Felipe Tobar and Rich with the experiments of this paper /Learning stationary time series using Gaussian Processes with nonparametric kernels/ which has been accepted to NIPS 2015 with *spotlight* presentation 
+#- 06/2015 I am a recipient of the [http://googleresearch.blogspot.co.uk/2015/06/announcing-2015-google-european.html 2015 Google European Doctoral Fellowship]
+#- 09-2014 /Tree structured Gaussian Process Approximations/ paper accepted to NIPS 2014 with *spotlight* presentation
+#- 05-2014 [http://cbl.eng.cam.ac.uk/Public/Turner/Turner Rich Turner] and I gave a talk on Advanced GP approximations at CUED\n
+#- 04-2014 Attended the [http://mlss2014.hiit.fi/ MLSS] in Reykjavik, Iceland\n
+#- 02-2014 [http://mlg.eng.cam.ac.uk/frellsen/ Jes Frellsen] and I gave a talk on Sequential Monte Carlo methods at CUED\n
+#- 01-2014 Attended the [http://ml.dcs.shef.ac.uk/gpss/gpws14/ Gaussian Process Winter School] in Sheffield\n
+#- 10-2013 Joined MLG, University of Cambridge
+
+
+#== Awards
+#- 10/2014 Travel grant for NIPS 2014, Canada.\n
+#- 2/2014 Travel grant for MLSS 2014, Iceland.\n
+#- 4/2012 University medal, University of Adelaide.\n
+#- 7/2007 Gold medal, 38th [http://en.wikipedia.org/wiki/International_Physics_Olympiad IPhO], Isfahan, Iran.\n
+#- 4/2007 Silver medal, 8th [http://en.wikipedia.org/wiki/Asian_Physics_Olympiad APhO], Shanghai, China. 
+
+
+#== Preprints
+
+== Conference and journal papers
+: {Variational Continual Learning} Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner, \n ICLR 2018 \n [https://arxiv.org/abs/1710.10628 arxiv]
+: {Neural graph learning: Training neural networks using graphs} Thang Bui, Sujith Ravi, and Vivek Ramavajjala \n WSDM 2018 \n [https://arxiv.org/abs/1703.04818 arxiv]
+: {A Unifying Framework for Sparse Gaussian Process Approximation using Power Expectation Propagation} Thang Bui, Josiah Yan, Rich Turner \n JMLR 2017 \n [https://arxiv.org/abs/1605.07066 arxiv] [https://github.com/thangbui/sparseGP_powerEP/ code]
+: {Streaming Sparse Gaussian Process Approximations} Thang Bui, Cuong Nguyen, and Rich Turner \n NIPS 2017 \n [https://arxiv.org/abs/1705.07131 arxiv] [https://github.com/thangbui/streaming_sparse_gp code]
+: {Deep Gaussian Processes for Regression using Approximate Expectation Propagation} Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, and Rich Turner \n ICML 2016 [http://jmlr.org/proceedings/papers/v48/bui16.pdf paper] [https://github.com/thangbui/deepGP_approxEP/ code]
+: {Black-box alpha-divergence minimization} José Miguel Hernández-Lobato, Yingzhen Li, Mark Rowland, Daniel Hernández-Lobato, Thang Bui, and Rich Turner \n ICML 2016 [http://jmlr.org/proceedings/papers/v48/hernandez-lobatob16.pdf paper] [https://bitbucket.org/jmh233/code_black_box_alpha_icml_2016 code]
+: {Learning stationary time series using Gaussian processes with nonparametric kernels} Felipe Tobar, Thang Bui, and Rich Turner \n NIPS 2015 (*Spotlight*, acceptance rate = 3.6%) [https://papers.nips.cc/paper/5772-learning-stationary-time-series-using-gaussian-processes-with-nonparametric-kernels paper]
+: {Tree-structured Gaussian process approximations} Thang Bui and Rich Turner \n NIPS 2014 (*Spotlight*, acceptance rate = 3.6%) [https://papers.nips.cc/paper/5459-tree-structured-gaussian-process-approximations paper] [https://github.com/thangbui/tsgp/ code]
+
+== Thesis
+: {Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models} PhD thesis \n University of Cambridge \n [docs/papers/thesis-thang.pdf pdf] \n [docs/papers/thesis-thang-typos.txt typos in the print version] 
+
+== Workshop papers
+: {Variational continual learning for deep models} Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner \n NIPS Bayesian Deep Learning Workshop, 2017
+: {Online variational Bayesian inference: Algorithms for sparse Gaussian processes and theoretical bounds} Cuong Nguyen, Thang Bui, Yingzhen Li, and Rich Turner \n ICML Time Series Workshop, 2017
+: {Importance weighted autoencoders with random neural network parameters} Daniel Hernández-Lobato, Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Bayesian Deep Learning, 2016 [http://bayesiandeeplearning.org/papers/BDL_15.pdf paper]
+: {Black-box alpha divergence for generative models} Thang Bui, Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016 [http://approximateinference.org/accepted/BuiEtAl2016.pdf paper]
+: {Circular Pseudo-point approximations for scaling Gaussian processes} Will Tebbutt, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016 [http://approximateinference.org/accepted/TebbuttEtAl2016.pdf paper]
+: {Bayesian Gaussian process state space models via Power-EP} Thang Bui, Carl Rasmussen and Rich Turner \n  ICML Workshop on Data efficient Machine Learning, 2016 [https://drive.google.com/file/d/0B0VXvxUNyiVSU0pNd0Y3ejBKaE0/view paper]
+: {Training deep Gaussian processes using stochastic expectation propagation and probabilistic backpropagation} Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015. [http://arxiv.org/abs/1511.03405 arXiv]
+: {Stochastic variational inference for Gaussian process latent variable models using back constraints} Thang Bui and Rich Turner \n NIPS Workshop on Black Box Learning and Inference, 2015 [http://www.blackboxworkshop.org/pdf/gplvm_blackbox_final.pdf paper]
+: {Black-box alpha-divergence minimisation} José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, Thang Bui and Rich Turner \n NIPS Workshops on Advances in Approximate Bayesian Inference and Black Box Learning and Inference, 2015. [http://arxiv.org/abs/1511.03243 arXiv]
+: {Stochastic expectation propagation for large scale Gaussian process classification} Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015. [http://arxiv.org/abs/1511.03249 arXiv]
+: {Design of covariance functions using inter-domain inducing variables} Felipe Tobar, Thang Bui and Rich Turner\n  NIPS Workshop on Time Series, 2015 *Best paper prize* [http://learning.eng.cam.ac.uk/pub/Public/Turner/Publications/Tobar_Bui_Turner_NIPS15_TS.pdf paper]
+
+
+== Misc
+: {Sparse Approximations for Non-Conjugate Gaussian Process Regressions} Thang Bui and Rich Turner \n [docs/reports/tr_sparseNonConj.pdf report]
+#: {Through-the-Wall Imaging Radar} Thang Bui, Joseph Rabig, Douglas Gray, Richard Drake, \n Progress in Radar Research, 2012, Adelaide, Australia. \n [http://www.adelaide.edu.au/radar/seminars/pirr-2012/ Link] [docs/reports/TWIRFinalReport.pdf Technical Report] [docs/reports/TWIR_Poster_Exhibition_2011.pdf Poster] 
+
+#== Talks
+#- Thang Bui, Learning by learning deep generative models, CUED
+#- Thang Bui, Deep GPs, University of Sheffield, Google DeepMind, OpenAI.
+#- Thang Bui, Alex Navarro, Richard Turner, Deep Gaussian Processes, CUED.
+#- [http://www-personal.acfr.usyd.edu.au/rmca4617/ Rowan McAllister], Thang Bui, State Space Abstraction for Reinforcement Learning, CUED. [docs/talks/rcc_rl.pdf part_1]
+#- Thang Bui, [http://cbl.eng.cam.ac.uk/Public/Turner/Turner Richard Turner], Tree-structured Gaussian Process approximations, CUED. [docs/talks/mlg_tsgptalk.pdf slides] [docs/talks/cbl_tsgptalk.pdf more slides]
+#- [http://cbl.eng.cam.ac.uk/Public/Turner/Turner Richard Turner], Thang Bui, Advanced GP approximations, CUED. [docs/talks/rcc_vargp.pdf part_1]
+#- [http://mlg.eng.cam.ac.uk/frellsen/ Jes Frellsen], Thang Bui, Introduction to Sequential Monte Carlo methods, CUED. [docs/talks/rcc_smc.pdf slides]
+
+
+== Short bio
+I received a Bachelor of Engineering (Telecommunications) from [http://www.adelaide.edu.au Adelaide University], Australia in 2011. I then spent sometime working as a research associate at [http://www.trc.adelaide.edu.au Teletraffic Research Centre] and [http://telari.com.au Telari], Adelaide. I did several internships in previous summers at Google Research in 2016, [http://www.toshiba.eu/eu/Cambridge-Research-Laboratory Toshiba Cambridge Research Lab] in 2014, [http://www.cisra.com.au CISRA, Canon Australia] in 2011-2012, [http://www.unsw.edu.au UNSW] in 2010-2011 and [http://www.adelaide.edu.au UofA] in 2009-2010.
+
+#I was born and raised in [http://en.wikipedia.org/wiki/Da_Nang Da Nang], Vietnam.
+
+== Other things
+Member of [http://www.trin.cam.ac.uk Trinity College]
+
+Reviewer for JMLR (2016, 2017, 2018), NIPS (2016, 2017), ICLR (2017, 2018), ICML (2017, 2018), AISTATS (2018), UAI (2018) and various NIPS and ICML workshops
+
+== Contact
+CBL, Department of Engineering\n
+Trumpington Street, Cambridge CB2 1PZ, UK\n
+tdb40 at at at cam.ac.uk
+
+
+
