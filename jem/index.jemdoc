@@ -2,9 +2,8 @@
 = Thang Bui
 
 ~~~
-I recently completed my doctoral training at the [http://mlg.eng.cam.ac.uk Machine Learning group] at the 
-[http://www.cam.ac.uk University of Cambridge], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n\n
-I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia
+I recently completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n\n
+I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia.
 ~~~
 
 #== News
@@ -36,10 +35,10 @@ I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine L
 : {Neural graph learning: Training neural networks using graphs} Thang Bui, Sujith Ravi, and Vivek Ramavajjala \n WSDM 2018 \n [https://arxiv.org/abs/1703.04818 arxiv]
 : {A Unifying Framework for Sparse Gaussian Process Approximation using Power Expectation Propagation} Thang Bui, Josiah Yan, Rich Turner \n JMLR 2017 \n [https://arxiv.org/abs/1605.07066 arxiv] [https://github.com/thangbui/sparseGP_powerEP/ code]
 : {Streaming Sparse Gaussian Process Approximations} Thang Bui, Cuong Nguyen, and Rich Turner \n NIPS 2017 \n [https://arxiv.org/abs/1705.07131 arxiv] [https://github.com/thangbui/streaming_sparse_gp code]
-: {Deep Gaussian Processes for Regression using Approximate Expectation Propagation} Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, and Rich Turner \n ICML 2016 [http://jmlr.org/proceedings/papers/v48/bui16.pdf paper] [https://github.com/thangbui/deepGP_approxEP/ code]
-: {Black-box alpha-divergence minimization} José Miguel Hernández-Lobato, Yingzhen Li, Mark Rowland, Daniel Hernández-Lobato, Thang Bui, and Rich Turner \n ICML 2016 [http://jmlr.org/proceedings/papers/v48/hernandez-lobatob16.pdf paper] [https://bitbucket.org/jmh233/code_black_box_alpha_icml_2016 code]
-: {Learning stationary time series using Gaussian processes with nonparametric kernels} Felipe Tobar, Thang Bui, and Rich Turner \n NIPS 2015 (*Spotlight*, acceptance rate = 3.6%) [https://papers.nips.cc/paper/5772-learning-stationary-time-series-using-gaussian-processes-with-nonparametric-kernels paper]
-: {Tree-structured Gaussian process approximations} Thang Bui and Rich Turner \n NIPS 2014 (*Spotlight*, acceptance rate = 3.6%) [https://papers.nips.cc/paper/5459-tree-structured-gaussian-process-approximations paper] [https://github.com/thangbui/tsgp/ code]
+: {Deep Gaussian Processes for Regression using Approximate Expectation Propagation} Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, and Rich Turner \n ICML 2016 \n [http://jmlr.org/proceedings/papers/v48/bui16.pdf paper] [https://github.com/thangbui/deepGP_approxEP/ code]
+: {Black-box alpha-divergence minimization} José Miguel Hernández-Lobato, Yingzhen Li, Mark Rowland, Daniel Hernández-Lobato, Thang Bui, and Rich Turner \n ICML 2016 \n [http://jmlr.org/proceedings/papers/v48/hernandez-lobatob16.pdf paper] [https://bitbucket.org/jmh233/code_black_box_alpha_icml_2016 code]
+: {Learning stationary time series using Gaussian processes with nonparametric kernels} Felipe Tobar, Thang Bui, and Rich Turner \n NIPS 2015 (*Spotlight*, acceptance rate = 3.6%) \n [https://papers.nips.cc/paper/5772-learning-stationary-time-series-using-gaussian-processes-with-nonparametric-kernels paper]
+: {Tree-structured Gaussian process approximations} Thang Bui and Rich Turner \n NIPS 2014 (*Spotlight*, acceptance rate = 3.6%) \n [https://papers.nips.cc/paper/5459-tree-structured-gaussian-process-approximations paper] [https://github.com/thangbui/tsgp/ code]
 
 == Thesis
 : {Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models} PhD thesis \n University of Cambridge \n [docs/papers/thesis-thang.pdf pdf] \n [docs/papers/thesis-thang-typos.txt typos in the print version] 
@@ -51,7 +50,7 @@ I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine L
 : {Black-box alpha divergence for generative models} Thang Bui, Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016
 : {Circular Pseudo-point approximations for scaling Gaussian processes} Will Tebbutt, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016
 : {Bayesian Gaussian process state space models via Power-EP} Thang Bui, Carl Rasmussen and Rich Turner \n  ICML Workshop on Data efficient Machine Learning, 2016
-: {Training deep Gaussian processes using stochastic expectation propagation and probabilistic backpropagation} Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015. [http://arxiv.org/abs/1511.03405 arXiv]
+: {Training deep Gaussian processes using stochastic expectation propagation and probabilistic backpropagation} Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015
 : {Stochastic variational inference for Gaussian process latent variable models using back constraints} Thang Bui and Rich Turner \n NIPS Workshop on Black Box Learning and Inference, 2015
 : {Black-box alpha-divergence minimisation} José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, Thang Bui and Rich Turner \n NIPS Workshops on Advances in Approximate Bayesian Inference and Black Box Learning and Inference, 2015.
 : {Stochastic expectation propagation for large scale Gaussian process classification} Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015.
