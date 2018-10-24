@@ -2,15 +2,9 @@
 = Thang Bui
 
 ~~~
-# {}{img_left}{pics/T_Bui.jpg}{Thang Bui}
-# [http://mlg.eng.cam.ac.uk/thang/ Thang Bui], 
-former (4th, 3rd, 2nd, 1st year) PhD student\n
-[http://mlg.eng.cam.ac.uk Machine Learning Group] \n
-[http://cbl.eng.cam.ac.uk Computational and Biological Learning Lab] \n
-[http://www.cam.ac.uk University of Cambridge]\n\n
-Supervisor: [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] \n
-Advisor: [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen] \n\n
-#[docs/T_Bui_CV.pdf CV] [http://github.com/thangbui/ github] [https://twitter.com/thdbui twitter @thdbui]
+I recently completed my doctoral training at the [http://mlg.eng.cam.ac.uk Machine Learning group] at the 
+[http://www.cam.ac.uk University of Cambridge], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n\n
+I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia
 ~~~
 
 #== News
@@ -35,15 +29,6 @@ Advisor: [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen] \n\n
 #- 01-2014 Attended the [http://ml.dcs.shef.ac.uk/gpss/gpws14/ Gaussian Process Winter School] in Sheffield\n
 #- 10-2013 Joined MLG, University of Cambridge
 
-
-#== Awards
-#- 10/2014 Travel grant for NIPS 2014, Canada.\n
-#- 2/2014 Travel grant for MLSS 2014, Iceland.\n
-#- 4/2012 University medal, University of Adelaide.\n
-#- 7/2007 Gold medal, 38th [http://en.wikipedia.org/wiki/International_Physics_Olympiad IPhO], Isfahan, Iran.\n
-#- 4/2007 Silver medal, 8th [http://en.wikipedia.org/wiki/Asian_Physics_Olympiad APhO], Shanghai, China. 
-
-
 #== Preprints
 
 == Conference and journal papers
@@ -62,20 +47,19 @@ Advisor: [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen] \n\n
 == Workshop papers
 : {Variational continual learning for deep models} Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner \n NIPS Bayesian Deep Learning Workshop, 2017
 : {Online variational Bayesian inference: Algorithms for sparse Gaussian processes and theoretical bounds} Cuong Nguyen, Thang Bui, Yingzhen Li, and Rich Turner \n ICML Time Series Workshop, 2017
-: {Importance weighted autoencoders with random neural network parameters} Daniel Hernández-Lobato, Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Bayesian Deep Learning, 2016 [http://bayesiandeeplearning.org/papers/BDL_15.pdf paper]
-: {Black-box alpha divergence for generative models} Thang Bui, Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016 [http://approximateinference.org/accepted/BuiEtAl2016.pdf paper]
-: {Circular Pseudo-point approximations for scaling Gaussian processes} Will Tebbutt, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016 [http://approximateinference.org/accepted/TebbuttEtAl2016.pdf paper]
-: {Bayesian Gaussian process state space models via Power-EP} Thang Bui, Carl Rasmussen and Rich Turner \n  ICML Workshop on Data efficient Machine Learning, 2016 [https://drive.google.com/file/d/0B0VXvxUNyiVSU0pNd0Y3ejBKaE0/view paper]
+: {Importance weighted autoencoders with random neural network parameters} Daniel Hernández-Lobato, Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Bayesian Deep Learning, 2016
+: {Black-box alpha divergence for generative models} Thang Bui, Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016
+: {Circular Pseudo-point approximations for scaling Gaussian processes} Will Tebbutt, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016
+: {Bayesian Gaussian process state space models via Power-EP} Thang Bui, Carl Rasmussen and Rich Turner \n  ICML Workshop on Data efficient Machine Learning, 2016
 : {Training deep Gaussian processes using stochastic expectation propagation and probabilistic backpropagation} Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015. [http://arxiv.org/abs/1511.03405 arXiv]
-: {Stochastic variational inference for Gaussian process latent variable models using back constraints} Thang Bui and Rich Turner \n NIPS Workshop on Black Box Learning and Inference, 2015 [http://www.blackboxworkshop.org/pdf/gplvm_blackbox_final.pdf paper]
-: {Black-box alpha-divergence minimisation} José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, Thang Bui and Rich Turner \n NIPS Workshops on Advances in Approximate Bayesian Inference and Black Box Learning and Inference, 2015. [http://arxiv.org/abs/1511.03243 arXiv]
-: {Stochastic expectation propagation for large scale Gaussian process classification} Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015. [http://arxiv.org/abs/1511.03249 arXiv]
-: {Design of covariance functions using inter-domain inducing variables} Felipe Tobar, Thang Bui and Rich Turner\n  NIPS Workshop on Time Series, 2015 *Best paper prize* [http://learning.eng.cam.ac.uk/pub/Public/Turner/Publications/Tobar_Bui_Turner_NIPS15_TS.pdf paper]
+: {Stochastic variational inference for Gaussian process latent variable models using back constraints} Thang Bui and Rich Turner \n NIPS Workshop on Black Box Learning and Inference, 2015
+: {Black-box alpha-divergence minimisation} José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, Thang Bui and Rich Turner \n NIPS Workshops on Advances in Approximate Bayesian Inference and Black Box Learning and Inference, 2015.
+: {Stochastic expectation propagation for large scale Gaussian process classification} Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015.
+: {Design of covariance functions using inter-domain inducing variables} Felipe Tobar, Thang Bui and Rich Turner\n  NIPS Workshop on Time Series, 2015 *Best paper prize*
 
 
 == Misc
 : {Sparse Approximations for Non-Conjugate Gaussian Process Regressions} Thang Bui and Rich Turner \n [docs/reports/tr_sparseNonConj.pdf report]
-#: {Through-the-Wall Imaging Radar} Thang Bui, Joseph Rabig, Douglas Gray, Richard Drake, \n Progress in Radar Research, 2012, Adelaide, Australia. \n [http://www.adelaide.edu.au/radar/seminars/pirr-2012/ Link] [docs/reports/TWIRFinalReport.pdf Technical Report] [docs/reports/TWIR_Poster_Exhibition_2011.pdf Poster] 
 
 #== Talks
 #- Thang Bui, Learning by learning deep generative models, CUED
@@ -87,20 +71,18 @@ Advisor: [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen] \n\n
 #- [http://mlg.eng.cam.ac.uk/frellsen/ Jes Frellsen], Thang Bui, Introduction to Sequential Monte Carlo methods, CUED. [docs/talks/rcc_smc.pdf slides]
 
 
-== Short bio
-I received a Bachelor of Engineering (Telecommunications) from [http://www.adelaide.edu.au Adelaide University], Australia in 2011. I then spent sometime working as a research associate at [http://www.trc.adelaide.edu.au Teletraffic Research Centre] and [http://telari.com.au Telari], Adelaide. I did several internships in previous summers at Google Research in 2016, [http://www.toshiba.eu/eu/Cambridge-Research-Laboratory Toshiba Cambridge Research Lab] in 2014, [http://www.cisra.com.au CISRA, Canon Australia] in 2011-2012, [http://www.unsw.edu.au UNSW] in 2010-2011 and [http://www.adelaide.edu.au UofA] in 2009-2010.
-
-#I was born and raised in [http://en.wikipedia.org/wiki/Da_Nang Da Nang], Vietnam.
+#== Short bio
+#I received a Bachelor of Engineering (Telecommunications) from [http://www.adelaide.edu.au Adelaide University], Australia in 2011. I then spent sometime working as a research associate at [http://www.trc.adelaide.edu.au Teletraffic Research Centre] and [http://telari.com.au Telari], Adelaide. I did several internships in previous summers at Google Research in 2016, [http://www.toshiba.eu/eu/Cambridge-Research-Laboratory Toshiba Cambridge Research Lab] in 2014, [http://www.cisra.com.au CISRA, Canon Australia] in 2011-2012, [http://www.unsw.edu.au UNSW] in 2010-2011 and [http://www.adelaide.edu.au UofA] in 2009-2010.
 
 == Other things
-Member of [http://www.trin.cam.ac.uk Trinity College]
+# Member of [http://www.trin.cam.ac.uk Trinity College]
 
-Reviewer for JMLR (2016, 2017, 2018), NIPS (2016, 2017), ICLR (2017, 2018), ICML (2017, 2018), AISTATS (2018), UAI (2018) and various NIPS and ICML workshops
+Reviewer for JMLR (2016, 2017, 2018), NIPS (2016, 2017, 2018), ICLR (2017, 2018, 2019), ICML (2017, 2018, 2019), AISTATS (2018), UAI (2018) and various NIPS and ICML workshops
 
 == Contact
-CBL, Department of Engineering\n
-Trumpington Street, Cambridge CB2 1PZ, UK\n
-tdb40 at at at cam.ac.uk
-
+#CBL, Department of Engineering\n
+#Trumpington Street, Cambridge CB2 1PZ, UK\n
+#tdb40 at at at cam.ac.uk
+thang.buivn at at at at gmail.com
 
 
