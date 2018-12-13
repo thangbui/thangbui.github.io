@@ -28,7 +28,8 @@ I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine L
 #- 01-2014 Attended the [http://ml.dcs.shef.ac.uk/gpss/gpws14/ Gaussian Process Winter School] in Sheffield\n
 #- 10-2013 Joined MLG, University of Cambridge
 
-#== Preprints
+== Preprints
+: {Partitioned Variational Inference: A unified framework encompassing federated and continual learning} Thang Bui, Cuong Nguyen, Siddharth Swaroop, Rich Turner\n [https://arxiv.org/abs/1811.11206]
 
 == Conference and journal papers
 : {Variational Continual Learning} Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner, \n ICLR 2018 \n [https://arxiv.org/abs/1710.10628 arxiv]
@@ -44,6 +45,9 @@ I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine L
 : {Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models} PhD thesis \n University of Cambridge \n [docs/papers/thesis-thang.pdf pdf] \n [docs/papers/thesis-thang-typos.txt typos in the print version] 
 
 == Workshop papers
+: {Partitioned variational inference for federated Bayesian deep learning} Thang Bui, Cuong Nguyen, Siddharth Swaroop, and Rich Turner \n NeurIPS Bayesian Deep Learning Workshop, 2018
+: {Understanding and improving variational continual learning} Siddharth Swaroop, Cuong Nguyen, Thang Bui, and Rich Turner \n NeurIPS Continual Learning Workshop, 2018
+: {Natural variational continual learning}, Hanna Tseran, Emtiyaz Khan, and Thang Bui \n NeurIPS Continual Learning Workshop, 2018
 : {Variational continual learning for deep models} Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner \n NIPS Bayesian Deep Learning Workshop, 2017
 : {Online variational Bayesian inference: Algorithms for sparse Gaussian processes and theoretical bounds} Cuong Nguyen, Thang Bui, Yingzhen Li, and Rich Turner \n ICML Time Series Workshop, 2017
 : {Importance weighted autoencoders with random neural network parameters} Daniel Hernández-Lobato, Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Bayesian Deep Learning, 2016
