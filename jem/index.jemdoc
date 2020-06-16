@@ -2,8 +2,10 @@
 = Thang Bui
 
 ~~~
-I recently completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n\n
-I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia.
+
+I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia.\n
+I'm taking leave to spend time at Uber AI, working on probabilistic modelling, approximate inference, continual learning, model-based reinforcement learning, and bandits.\n\n 
+I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen]. I worked on Gaussian process models and generic approximation methods.\n\n
 ~~~
 
 #== News
@@ -29,6 +31,8 @@ I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine L
 #- 10-2013 Joined MLG, University of Cambridge
 
 == Preprints
+: {Variational autoregressive Gaussian processes for continual learning} Sanyam Kapoor, Theofanis Karaletsos, Thang Bui \n [https://arxiv.org/abs/2006.05468]
+: {Hierarchical Gaussian process priors for Bayesian neural network weights} Theofanis Karaletsos, Thang Bui \n [https://arxiv.org/abs/2002.04033]
 : {Partitioned Variational Inference: A unified framework encompassing federated and continual learning} Thang Bui, Cuong Nguyen, Siddharth Swaroop, Rich Turner\n [https://arxiv.org/abs/1811.11206]
 
 == Conference and journal papers
@@ -80,7 +84,7 @@ I'm now a lecturer (equivalent to tenure-track Assistant Professor) in Machine L
 == Other things
 # Member of [http://www.trin.cam.ac.uk Trinity College]
 
-Reviewer for JMLR (2016, 2017, 2018), NIPS (2016, 2017, 2018), ICLR (2017, 2018, 2019), ICML (2017, 2018, 2019), AISTATS (2018), UAI (2018) and various NIPS and ICML workshops
+Reviewer for JMLR (2016, 2017, 2018), NIPS (2016-20), ICLR (2017-20), ICML (2017-20), AISTATS (2018-20), UAI (2018) and various NIPS and ICML workshops
 
 == Contact
 #CBL, Department of Engineering\n
