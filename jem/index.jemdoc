@@ -31,6 +31,7 @@ I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Mach
 #- 10-2013 Joined MLG, University of Cambridge
 
 == Preprints
+: {Connecting the Thermodynamics Variational Objective and Annealed Importance Sampling}, Thang Bui, \n [docs/reports/tvo_annealed_is.pdf note]
 : {Variational autoregressive Gaussian processes for continual learning} Sanyam Kapoor, Theofanis Karaletsos, Thang Bui \n [https://arxiv.org/abs/2006.05468]
 : {Hierarchical Gaussian process priors for Bayesian neural network weights} Theofanis Karaletsos, Thang Bui \n [https://arxiv.org/abs/2002.04033]
 : {Partitioned Variational Inference: A unified framework encompassing federated and continual learning} Thang Bui, Cuong Nguyen, Siddharth Swaroop, Rich Turner\n [https://arxiv.org/abs/1811.11206]
@@ -84,7 +85,7 @@ I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Mach
 == Other things
 # Member of [http://www.trin.cam.ac.uk Trinity College]
 
-Reviewer for JMLR (2016, 2017, 2018), NIPS (2016-20), ICLR (2017-20), ICML (2017-20), AISTATS (2018-20), UAI (2018) and various NIPS and ICML workshops
+Reviewer for JMLR (2016, 2017, 2018), NIPS (2016-20), ICLR (2017-21), ICML (2017-20), AISTATS (2018-21), UAI (2018) and various NIPS and ICML workshops
 
 == Contact
 #CBL, Department of Engineering\n
