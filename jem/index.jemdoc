@@ -33,10 +33,10 @@ I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Mach
 == Preprints
 : {Connecting the Thermodynamic Variational Objective and Annealed Importance Sampling} Thang Bui \n [docs/reports/tvo_annealed_is.pdf note]
 : {Variational autoregressive Gaussian processes for continual learning} Sanyam Kapoor, Theofanis Karaletsos, Thang Bui \n [https://arxiv.org/abs/2006.05468]
-: {Hierarchical Gaussian process priors for Bayesian neural network weights} Theofanis Karaletsos, Thang Bui \n [https://arxiv.org/abs/2002.04033]
 : {Partitioned Variational Inference: A unified framework encompassing federated and continual learning} Thang Bui, Cuong Nguyen, Siddharth Swaroop, Rich Turner\n [https://arxiv.org/abs/1811.11206]
 
 == Conference and journal papers
+: {Hierarchical Gaussian process priors for Bayesian neural network weights} Theofanis Karaletsos and Thang Bui \n NeurIPS 2020 \n [https://arxiv.org/abs/2002.04033 arxiv]
 : {Variational Continual Learning} Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner, \n ICLR 2018 \n [https://arxiv.org/abs/1710.10628 arxiv]
 : {Neural graph learning: Training neural networks using graphs} Thang Bui, Sujith Ravi, and Vivek Ramavajjala \n WSDM 2018 \n [https://arxiv.org/abs/1703.04818 arxiv]
 : {A Unifying Framework for Sparse Gaussian Process Approximation using Power Expectation Propagation} Thang Bui, Josiah Yan, Rich Turner \n JMLR 2017 \n [https://arxiv.org/abs/1605.07066 arxiv] [https://github.com/thangbui/sparseGP_powerEP/ code]
