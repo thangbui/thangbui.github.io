@@ -2,11 +2,16 @@
 = Thang Bui
 
 ~~~
-
-I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia.\n
-I'm taking leave to spend time at Uber AI, working on probabilistic modelling, approximate inference, continual learning, model-based reinforcement learning, and bandits.\n\n 
-I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen]. I worked on Gaussian process models and generic approximation methods.\n\n
+I'm looking for PhD/MPhil students. If you have a strong background in statistics and computer science, feel free to get in touch. Please see my research interests and publications below, and my email address at the bottom of this page.
 ~~~
+
+== Bio
+I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia since 2018.\n
+I spent two years (2019-2020) at Uber AI, working on probabilistic inference, continual learning, reinforcement learning and applications of these topics for marketplace experimentation and optimisation.\n
+I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n\n 
+
+My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual leaning, and model-based reinforcement learning.\n
+
 
 #== News
 #- 10/2017: Our work on unifying GP approximations using Power-EP has been accepted to JMLR.
@@ -50,6 +55,9 @@ I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Mach
 : {Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models} PhD thesis \n University of Cambridge \n [docs/papers/thesis-thang.pdf pdf] \n [docs/papers/thesis-thang-typos.txt typos in the print version] 
 
 == Workshop papers
+: {Annealed importance sampling with q-paths} Rob Brekelmans, Vaden Masrani, Thang Bui, Frank Wood, Aram Galstyan, Greg Ver Steeg, and Frank Nielsen, \n NeurIPS workshop on Deep Learning through Information Geometry, 2020 *Best paper award*
+: {Variational autoregressive Gaussian processes for continual learning} Sanyam Kapoor, Theofanis Karaletsos and Thang Bui \n ICML workshop on Continual Learning, 2020
+: {Gaussian process meta-representations for hierarchical neural network priors} Theofanis Karaletsos and Thang Bui \n 2nd Symposium on Advances in Approximate Bayesian Inference, 2019
 : {Partitioned variational inference for federated Bayesian deep learning} Thang Bui, Cuong Nguyen, Siddharth Swaroop, and Rich Turner \n NeurIPS Bayesian Deep Learning Workshop, 2018
 : {Understanding and improving variational continual learning} Siddharth Swaroop, Cuong Nguyen, Thang Bui, and Rich Turner \n NeurIPS Continual Learning Workshop, 2018
 : {Natural variational continual learning} Hanna Tseran, Emtiyaz Khan, Tatsuya Harada and Thang Bui \n NeurIPS Continual Learning Workshop, 2018
@@ -63,7 +71,7 @@ I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Mach
 : {Stochastic variational inference for Gaussian process latent variable models using back constraints} Thang Bui and Rich Turner \n NIPS Workshop on Black Box Learning and Inference, 2015
 : {Black-box alpha-divergence minimisation} José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, Thang Bui and Rich Turner \n NIPS Workshops on Advances in Approximate Bayesian Inference and Black Box Learning and Inference, 2015.
 : {Stochastic expectation propagation for large scale Gaussian process classification} Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015.
-: {Design of covariance functions using inter-domain inducing variables} Felipe Tobar, Thang Bui and Rich Turner\n  NIPS Workshop on Time Series, 2015 *Best paper prize*
+: {Design of covariance functions using inter-domain inducing variables} Felipe Tobar, Thang Bui and Rich Turner\n  NIPS Workshop on Time Series, 2015 *Best paper award*
 
 
 == Misc
@@ -82,10 +90,10 @@ I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Mach
 #== Short bio
 #I received a Bachelor of Engineering (Telecommunications) from [http://www.adelaide.edu.au Adelaide University], Australia in 2011. I then spent sometime working as a research associate at [http://www.trc.adelaide.edu.au Teletraffic Research Centre] and [http://telari.com.au Telari], Adelaide. I did several internships in previous summers at Google Research in 2016, [http://www.toshiba.eu/eu/Cambridge-Research-Laboratory Toshiba Cambridge Research Lab] in 2014, [http://www.cisra.com.au CISRA, Canon Australia] in 2011-2012, [http://www.unsw.edu.au UNSW] in 2010-2011 and [http://www.adelaide.edu.au UofA] in 2009-2010.
 
-== Other things
+#== Other things
 # Member of [http://www.trin.cam.ac.uk Trinity College]
 
-Reviewer for JMLR (2016, 2017, 2018), NIPS (2016-20), ICLR (2017-21), ICML (2017-20), AISTATS (2018-21), UAI (2018) and various NIPS and ICML workshops
+# Reviewer for JMLR (2016, 2017, 2018), NIPS (2016-20), ICLR (2017-21), ICML (2017-20), AISTATS (2018-21), UAI (2018) and various NIPS and ICML workshops
 
 == Contact
 #CBL, Department of Engineering\n
