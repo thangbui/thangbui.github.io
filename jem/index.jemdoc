@@ -2,20 +2,24 @@
 = Thang Bui
 
 ~~~
-I'm looking for PhD/MPhil students. If you have a strong background in statistics and computer science, feel free to get in touch. Please see my research interests and publications below, and my email address at the bottom of this page.
+I'm looking for PhD/MPhil students and a postdoc. If you have a strong background in statistics and computer science, feel free to get in touch. Please see my research interests and publications below, and my email address at the bottom of this page.
 ~~~
 
 == Bio
-I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning and Data Science at the University of Sydney, Australia since 2018.
+I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning at the [https://comp.anu.edu.au/ School of Computing], [https://www.anu.edu.au/ Australian National University] since July 2022.\n
 
-I spent two years (2019-2020) at Uber AI, working on probabilistic inference, continual learning, reinforcement learning and applications of these topics for marketplace experimentation and optimisation.\n
+Before that, I was a lecturer at the University of Sydney from 2018 to 2022 and spent two years (2019-2020) at Uber AI.\n
 
-I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n\n 
+I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n
 
 My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual leaning, and model-based reinforcement learning.\n
 
 
-#== News
+== News
+- 7/2022: I joined ANU as a tenure-track faculty member.
+- 2/2022: New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
+- 2022: I'm an area chair for NeurIPS 2022 and an action editor for TMLR.
+- 2021: I was awarded an unrestricted grant from Facebook.
 #- 10/2017: Our work on unifying GP approximations using Power-EP has been accepted to JMLR.
 #- 09/2017: Streaming approximations for Gaussian process regression and classification [https://arxiv.org/abs/1705.07131 arxiv] accepted to NIPS 2017.
 #- 08/2017: I will present our work on online GP inference and learning at the [http://roseyu.com/time-series-workshop/ ICML Time Series workshop] in Sydney.
@@ -38,7 +42,7 @@ My current research interests include probabilistic modelling and inference, Mon
 #- 10-2013 Joined MLG, University of Cambridge
 
 == Preprints
-- [https://arxiv.org/abs/1811.11206 Partitioned Variational Inference: A unified framework encompassing federated and continual learning]\n Thang Bui, Cuong Nguyen, Siddharth Swaroop, and Rich Turner
+- [https://arxiv.org/abs/2202.12275 Partitioned Variational Inference: A Framework for Probabilistic Federated Learning]\nMatthew Ashman, Thang Bui, Cuong Nguyen, Stratis Markou, Adrian Weller, Siddharth Swaroop, Richard Turner\nNote: An old version of this is available [https://arxiv.org/abs/1811.11206 here].
 
 == Conference and journal papers
 - q-Paths: Generalizing the geometric annealing path using power means\n Vaden Masrani, Rob Brekelmans, Thang Bui, Frank Nielsen , Aram Galstyan, Greg Ver Steeg, and Frank Wood \n UAI 2021
@@ -99,9 +103,9 @@ My current research interests include probabilistic modelling and inference, Mon
 # Reviewer for JMLR (2016, 2017, 2018), NIPS (2016-20), ICLR (2017-21), ICML (2017-20), AISTATS (2018-21), UAI (2018) and various NIPS and ICML workshops
 
 == Contact
-#CBL, Department of Engineering\n
-#Trumpington Street, Cambridge CB2 1PZ, UK\n
-#tdb40 at at at cam.ac.uk
-thang.buivn at at at at gmail.com
+Hanna Neumann Building 145, Office 2.22\n
+School of Computing, College of Engineering and Computer Science\n
+The Australian National University, Australia\n
+thang.bui at at at at anu.edu.au
 
 
