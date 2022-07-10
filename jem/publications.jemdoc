@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+
+== Preprints
+- [https://arxiv.org/abs/2202.12275 Partitioned Variational Inference: A Framework for Probabilistic Federated Learning]\nMatthew Ashman, Thang Bui, Cuong Nguyen, Stratis Markou, Adrian Weller, Siddharth Swaroop, Richard Turner\nNote: An old version of this is available [https://arxiv.org/abs/1811.11206 here].
+
+== Conference and journal papers
+- q-Paths: Generalizing the geometric annealing path using power means\n Vaden Masrani, Rob Brekelmans, Thang Bui, Frank Nielsen , Aram Galstyan, Greg Ver Steeg, and Frank Wood \n UAI 2021
+- [https://arxiv.org/abs/2006.05468 Variational autoregressive Gaussian processes for continual learning]\n Sanyam Kapoor, Theofanis Karaletsos, and Thang Bui \n ICML 2021 \n [https://github.com/uber-research/vargp code]
+- [https://arxiv.org/abs/2002.04033 Hierarchical Gaussian process priors for Bayesian neural network weights]\n Theofanis Karaletsos and Thang Bui \n NeurIPS 2020
+- [https://arxiv.org/abs/1710.10628 Variational continual learning]\n Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner, \n ICLR 2018 \n [https://github.com/nvcuong/variational-continual-learning code]
+- [https://arxiv.org/abs/1703.04818 Neural graph learning: Training neural networks using graphs]\n Thang Bui, Sujith Ravi, and Vivek Ramavajjala \n WSDM 2018
+- [https://arxiv.org/abs/1605.07066 A unifying framework for sparse Gaussian process approximations using Power Expectation Propagation]\n Thang Bui, Josiah Yan, Rich Turner \n JMLR 2017 \n [https://github.com/thangbui/sparseGP_powerEP/ code]
+- [https://arxiv.org/abs/1705.07131 Streaming sparse Gaussian process approximations]\n Thang Bui, Cuong Nguyen, and Rich Turner \n NIPS 2017 \n [https://github.com/thangbui/streaming_sparse_gp code]
+- [http://jmlr.org/proceedings/papers/v48/bui16.pdf Deep Gaussian processes for regression using approximate Expectation Propagation]\n Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, and Rich Turner \n ICML 2016 \n [https://github.com/thangbui/deepGP_approxEP/ code]
+- [http://jmlr.org/proceedings/papers/v48/hernandez-lobatob16.pdf  Black-box alpha-divergence minimization]\n José Miguel Hernández-Lobato, Yingzhen Li, Mark Rowland, Daniel Hernández-Lobato, Thang Bui, and Rich Turner \n ICML 2016 \n [https://bitbucket.org/jmh233/code_black_box_alpha_icml_2016 code]
+- [https://papers.nips.cc/paper/5772-learning-stationary-time-series-using-gaussian-processes-with-nonparametric-kernels Learning stationary time series using Gaussian processes with nonparametric kernels] \n Felipe Tobar, Thang Bui, and Rich Turner \n NIPS 2015 (*Spotlight*, acceptance rate = 3.6%)
+- [https://papers.nips.cc/paper/5459-tree-structured-gaussian-process-approximations Tree-structured Gaussian process approximations]\n Thang Bui and Rich Turner \n NIPS 2014 (*Spotlight*, acceptance rate = 3.6%) \n [https://github.com/thangbui/tsgp/ code]
+
+== Thesis
+- [docs/papers/thesis-thang.pdf Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models] \n PhD thesis \n University of Cambridge \n [docs/papers/thesis-thang-typos.txt typos in the print version] 
+
+== Workshop papers
+- [https://arxiv.org/abs/2012.07823 Annealed importance sampling with q-paths]\n Rob Brekelmans, Vaden Masrani, Thang Bui, Frank Wood, Aram Galstyan, Greg Ver Steeg, and Frank Nielsen, \n NeurIPS workshop on Deep Learning through Information Geometry, 2020\n *Best paper award*
+- [https://arxiv.org/abs/2006.05468 Variational autoregressive Gaussian processes for continual learning] \n Sanyam Kapoor, Theofanis Karaletsos, and Thang Bui \n ICML workshop on Continual Learning, 2020
+- [https://arxiv.org/abs/2002.04033 Gaussian process meta-representations for hierarchical neural network priors]\n Theofanis Karaletsos and Thang Bui \n 2nd Symposium on Advances in Approximate Bayesian Inference, 2019
+- [https://arxiv.org/abs/1811.11206 Partitioned variational inference for federated Bayesian deep learning]\n Thang Bui, Cuong Nguyen, Siddharth Swaroop, and Rich Turner \n NeurIPS Bayesian Deep Learning Workshop, 2018
+- [https://arxiv.org/abs/1905.02099 Understanding and improving variational continual learning]\n Siddharth Swaroop, Cuong Nguyen, Thang Bui, and Rich Turner \n NeurIPS Continual Learning Workshop, 2018
+- [https://hanna-tseran.github.io/files/NeurIPS_Continual_Learning_Workshop_2018_Paper.pdf Natural variational continual learning]\n Hanna Tseran, Emtiyaz Khan, Tatsuya Harada and Thang Bui \n NeurIPS Continual Learning Workshop, 2018
+- [https://arxiv.org/abs/1710.10628 Variational continual learning for deep models]\n Cuong Nguyen, Yingzhen Li, Thang Bui, and Rich Turner \n NIPS Bayesian Deep Learning Workshop, 2017
+- [http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_7.pdf Online variational Bayesian inference: Algorithms for sparse Gaussian processes and theoretical bounds]\n Cuong Nguyen, Thang Bui, Yingzhen Li, and Rich Turner \n ICML Time Series Workshop, 2017
+- [https://jmhldotorg.files.wordpress.com/2013/10/papernipsworkshopbayesiandeeplearning2016.pdf Importance weighted autoencoders with random neural network parameters]\n Daniel Hernández-Lobato, Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Bayesian Deep Learning, 2016
+- [http://approximateinference.org/accepted/BuiEtAl2016.pdf Black-box alpha divergence for generative models]\n Thang Bui, Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016
+- [http://approximateinference.org/accepted/TebbuttEtAl2016.pdf Circular Pseudo-point approximations for scaling Gaussian processes]\n Will Tebbutt, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2016
+- Bayesian Gaussian process state space models via Power-EP \n Thang Bui, Carl Rasmussen and Rich Turner \n  ICML Workshop on Data efficient Machine Learning, 2016
+- [https://arxiv.org/abs/1511.03405 Training deep Gaussian processes using stochastic expectation propagation and probabilistic backpropagation]\n Thang Bui, José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015
+- [https://www.blackboxworkshop.org/pdf/gplvm_blackbox_final.pdf Stochastic variational inference for Gaussian process latent variable models using back constraints]\n Thang Bui and Rich Turner \n NIPS Workshop on Black Box Learning and Inference, 2015
+- [https://www.blackboxworkshop.org/pdf/nips2015_blackbox_alpha.pdf Black-box alpha-divergence minimisation]\n José Miguel Hernández-Lobato, Yingzhen Li, Daniel Hernández-Lobato, Thang Bui and Rich Turner \n NIPS Workshops on Advances in Approximate Bayesian Inference and Black Box Learning and Inference, 2015.
+- [https://arxiv.org/abs/1511.03249 Stochastic expectation propagation for large scale Gaussian process classification]\n Daniel Hernández-Lobato, José Miguel Hernández-Lobato, Yingzhen Li, Thang Bui and Rich Turner \n NIPS Workshop on Advances in Approximate Bayesian Inference, 2015.
+- [http://learning.eng.cam.ac.uk/pub/Public/Turner/Publications/Tobar_Bui_Turner_NIPS15_TS.pdf Design of covariance functions using inter-domain inducing variables]\n Felipe Tobar, Thang Bui and Rich Turner\n  NIPS Workshop on Time Series, 2015\n *Best paper award*
+
+
+== Misc
+- [docs/reports/tvo_annealed_is.pdf Connecting the Thermodynamic Variational Objective and Annealed Importance Sampling]\n Thang Bui
+- [docs/reports/tr_sparseNonConj.pdf Sparse Approximations for Non-Conjugate Gaussian Process Regressions]\n Thang Bui and Rich Turner
