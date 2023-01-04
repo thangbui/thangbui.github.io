@@ -13,10 +13,12 @@ Before that, I was a lecturer at the University of Sydney from 2018 to 2022 and 
 
 I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n
 
-My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual leaning, and model-based reinforcement learning.\n
+My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual learning, and model-based reinforcement learning.\n
 
 
 == News
+- 1/2023: I will be an area chair for ICML 2023
+- 12/2022: I gave an invited talk at [https://continual-lifelong-learners.github.io/ the continual learning workshop, ACML 2022].
 - 7/2022: I joined ANU as a tenure-track faculty member.
 - 2/2022: New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
 - 2022: I'm an area chair for NeurIPS 2022 and an action editor for TMLR.
