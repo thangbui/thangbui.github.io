@@ -17,12 +17,12 @@ My current research interests include probabilistic modelling and inference, Mon
 
 
 == News
-- 1/2023: I will be an area chair for ICML 2023
+- 2023: I was/will be an area chair for ICML 2023 and NeurIPS 2023, an action editor for TMLR, an editorial board member for ACM TOPML, and a publicity co-chair for AJCAI 2023. 
 - 12/2022: I gave an invited talk at [https://continual-lifelong-learners.github.io/ the continual learning workshop, ACML 2022].
 - 7/2022: I joined ANU as a tenure-track faculty member.
 - 2/2022: New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
-- 2022: I'm an area chair for NeurIPS 2022 and an action editor for TMLR.
-- 2021: I was awarded an unrestricted grant from Facebook and was an area chair for NeurIPS 2021.
+#- 2022: I'm an area chair for NeurIPS 2022 and an action editor for TMLR.
+#- 2021: I was awarded an unrestricted grant from Facebook and was an area chair for NeurIPS 2021.
 #- 10/2017: Our work on unifying GP approximations using Power-EP has been accepted to JMLR.
 #- 09/2017: Streaming approximations for Gaussian process regression and classification [https://arxiv.org/abs/1705.07131 arxiv] accepted to NIPS 2017.
 #- 08/2017: I will present our work on online GP inference and learning at the [http://roseyu.com/time-series-workshop/ ICML Time Series workshop] in Sydney.
