@@ -3,7 +3,7 @@
 = Thang D. Bui
 
 ~~~
-I'm looking for PhD/MPhil students and a postdoc. Please see my research interests below, [/publications.html my publications] and read through [/vacancies.html this page].
+I'm looking for PhD/MPhil students and postdoctoral fellows. Please see my research interests below, [/publications.html my publications] and read through [/vacancies.html this page].
 ~~~
 
 == Bio
@@ -17,10 +17,13 @@ My current research interests include probabilistic modelling and inference, Mon
 
 
 == News
-- 2023: I was/will be an area chair for ICML 2023 and NeurIPS 2023, an action editor for TMLR, an editorial board member for ACM TOPML, and a publicity co-chair for AJCAI 2023. 
-- 12/2022: I gave an invited talk at [https://continual-lifelong-learners.github.io/ the continual learning workshop, ACML 2022].
-- 7/2022: I joined ANU as a tenure-track faculty member.
-- 2/2022: New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
+- 2/2024: Paper on grokking accepted to TMLR. Congrats Jack and Charlie! 
+- 1/2024: I gave a talk on grokking and probabilistic federated learning at VinAI in Vietnam
+- 11/2023: Jack and Charlie present their work at the USyd ML reading group
+#- 2023: I was/will be an area chair for ICML 2023 and NeurIPS 2023, an action editor for TMLR, an editorial board member for ACM TOPML, and a publicity co-chair for AJCAI 2023. 
+#- 12/2022: I gave an invited talk at [https://continual-lifelong-learners.github.io/ the continual learning workshop, ACML 2022].
+#- 7/2022: I joined ANU as a tenure-track faculty member.
+#- 2/2022: New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
 #- 2022: I'm an area chair for NeurIPS 2022 and an action editor for TMLR.
 #- 2021: I was awarded an unrestricted grant from Facebook and was an area chair for NeurIPS 2021.
 #- 10/2017: Our work on unifying GP approximations using Power-EP has been accepted to JMLR.

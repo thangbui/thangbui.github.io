@@ -4,6 +4,7 @@
 - [https://arxiv.org/abs/2202.12275 Partitioned Variational Inference: A Framework for Probabilistic Federated Learning]\nMatthew Ashman, Thang Bui, Cuong Nguyen, Stratis Markou, Adrian Weller, Siddharth Swaroop, Richard Turner\nNote: An old version of this is available [https://arxiv.org/abs/1811.11206 here].
 
 == Conference and journal papers
+- Grokking beyond neural networks: An empirical exploration with model complexity \n Jack Miller, Charles O'Neill, Thang Bui \n TMLR 2024
 - q-Paths: Generalizing the geometric annealing path using power means\n Vaden Masrani, Rob Brekelmans, Thang Bui, Frank Nielsen , Aram Galstyan, Greg Ver Steeg, and Frank Wood \n UAI 2021
 - [https://arxiv.org/abs/2006.05468 Variational autoregressive Gaussian processes for continual learning]\n Sanyam Kapoor, Theofanis Karaletsos, and Thang Bui \n ICML 2021 \n [https://github.com/uber-research/vargp code]
 - [https://arxiv.org/abs/2002.04033 Hierarchical Gaussian process priors for Bayesian neural network weights]\n Theofanis Karaletsos and Thang Bui \n NeurIPS 2020
@@ -20,6 +21,7 @@
 - [docs/papers/thesis-thang.pdf Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models] \n PhD thesis \n University of Cambridge \n [docs/papers/thesis-thang-typos.txt typos in the print version] 
 
 == Workshop papers
+- AstroLLaMA: Towards specialised foundation models in Astronomy\n Tuan Dung Nguyen, Yuan-Sen Ting, Ioana Ciuca, et al.\nACL Workshop on Information Extraction from Scientific Publications, 2023
 - [https://arxiv.org/abs/2012.07823 Annealed importance sampling with q-paths]\n Rob Brekelmans, Vaden Masrani, Thang Bui, Frank Wood, Aram Galstyan, Greg Ver Steeg, and Frank Nielsen, \n NeurIPS workshop on Deep Learning through Information Geometry, 2020\n *Best paper award*
 - [https://arxiv.org/abs/2006.05468 Variational autoregressive Gaussian processes for continual learning] \n Sanyam Kapoor, Theofanis Karaletsos, and Thang Bui \n ICML workshop on Continual Learning, 2020
 - [https://arxiv.org/abs/2002.04033 Gaussian process meta-representations for hierarchical neural network priors]\n Theofanis Karaletsos and Thang Bui \n 2nd Symposium on Advances in Approximate Bayesian Inference, 2019
