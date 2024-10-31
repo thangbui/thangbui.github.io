@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 
 == Preprints
+- [https://arxiv.org/abs/2410.22685 Improving uncertainty quantification in large language models via semantic embeddings] \nYashvir Grewal, Edwin Bonilla, and Thang Bui
+- [https://arxiv.org/abs/2410.20754 Likelihood approximation via Gaussian approximate inference] \nThang Bui
 - [https://arxiv.org/abs/2202.12275 Partitioned Variational Inference: A Framework for Probabilistic Federated Learning]\nMatthew Ashman, Thang Bui, Cuong Nguyen, Stratis Markou, Adrian Weller, Siddharth Swaroop, Richard Turner\nNote: An old version of this is available [https://arxiv.org/abs/1811.11206 here].
 
 == Conference and journal papers
@@ -43,4 +45,3 @@
 
 == Misc
 - [docs/reports/tvo_annealed_is.pdf Connecting the Thermodynamic Variational Objective and Annealed Importance Sampling]\n Thang Bui
-- [docs/reports/tr_sparseNonConj.pdf Sparse Approximations for Non-Conjugate Gaussian Process Regressions]\n Thang Bui and Rich Turner

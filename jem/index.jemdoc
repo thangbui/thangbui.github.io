@@ -7,29 +7,31 @@ I'm looking for PhD/MPhil students and postdoctoral fellows. Please see my resea
 ~~~
 
 == Bio
-I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning at the [https://comp.anu.edu.au/ School of Computing], [https://www.anu.edu.au/ Australian National University] since July 2022.\n
-
-Before that, I was a lecturer at the University of Sydney from 2018 to 2022 and spent two years (2019-2020) at Uber AI.\n
-
+I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning at the [https://comp.anu.edu.au/ School of Computing], [https://www.anu.edu.au/ Australian National University] since July 2022.
+Before that, I was a lecturer at the University of Sydney from 2018 to 2022 and spent two years (2019-2020) at Uber AI.
 I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n
 
-My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual learning, and model-based reinforcement learning.\n
-
+My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual learning, and model-based reinforcement learning. My group currently focus on\n
+- *how to obtain uncertainty estimates* (for example, developing efficient approximate inference methods for Gaussian processes and neural networks)
+- *how to update models and uncertainty in changing environments* (for example, developing continual learning or unlearning methods for streaming data)
+- *how to interpret models and algorithms* (for example, understanding behaviours in transformers or neural network training)
 
 == News
-- 2/2024: Paper on grokking accepted to TMLR. Congrats Jack and Charlie! 
-- 1/2024: I gave a talk on grokking and probabilistic federated learning at VinAI in Vietnam
-- 11/2023: Jack and Charlie present their work at the USyd ML reading group
-#- 2023: I was/will be an area chair for ICML 2023 and NeurIPS 2023, an action editor for TMLR, an editorial board member for ACM TOPML, and a publicity co-chair for AJCAI 2023. 
-#- 12/2022: I gave an invited talk at [https://continual-lifelong-learners.github.io/ the continual learning workshop, ACML 2022].
-#- 7/2022: I joined ANU as a tenure-track faculty member.
-#- 2/2022: New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
-#- 2022: I'm an area chair for NeurIPS 2022 and an action editor for TMLR.
-#- 2021: I was awarded an unrestricted grant from Facebook and was an area chair for NeurIPS 2021.
-#- 10/2017: Our work on unifying GP approximations using Power-EP has been accepted to JMLR.
-#- 09/2017: Streaming approximations for Gaussian process regression and classification [https://arxiv.org/abs/1705.07131 arxiv] accepted to NIPS 2017.
-#- 08/2017: I will present our work on online GP inference and learning at the [http://roseyu.com/time-series-workshop/ ICML Time Series workshop] in Sydney.
-#- 03-current/2017: I am working on [http://github.com/thangbui/geepee geepee], a package that can handle sparse deterministic approximations (using Power-EP, variational free-energy, and approximate Power-EP aka. black-box alpha) for Gaussian process models (including regression, classification, latent variable models, state space models and deep GPs).
+- 11/2024 Attending a [https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461 Dagstuhl] workshop
+- 10/2024 Two preprints on [https://arxiv.org/abs/2410.22685 semantic entropy in LLMs] and [https://arxiv.org/abs/2410.20754 likelihood approximations]
+#- 2/2024 Paper on grokking accepted to TMLR. Congrats Jack and Charlie! 
+#- 1/2024 I gave a talk on grokking and probabilistic federated learning at VinAI in Vietnam
+#- 11/2023 Jack and Charlie present their work at the USyd ML reading group
+#- 2023 I was/will be an area chair for ICML 2023 and NeurIPS 2023, an action editor for TMLR, an editorial board member for ACM TOPML, and a publicity co-chair for AJCAI 2023. 
+#- 12/2022 I gave an invited talk at [https://continual-lifelong-learners.github.io/ the continual learning workshop, ACML 2022].
+#- 7/2022 I joined ANU as a tenure-track faculty member.
+#- 2/2022 New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
+#- 2022 I'm an area chair for NeurIPS 2022 and an action editor for TMLR.
+#- 2021 I was awarded an unrestricted grant from Facebook and was an area chair for NeurIPS 2021.
+#- 10/2017 Our work on unifying GP approximations using Power-EP has been accepted to JMLR.
+#- 09/2017 Streaming approximations for Gaussian process regression and classification [https://arxiv.org/abs/1705.07131 arxiv] accepted to NIPS 2017.
+#- 08/2017 I will present our work on online GP inference and learning at the [http://roseyu.com/time-series-workshop/ ICML Time Series workshop] in Sydney.
+#- 03-current/2017 I am working on [http://github.com/thangbui/geepee geepee], a package that can handle sparse deterministic approximations (using Power-EP, variational free-energy, and approximate Power-EP aka. black-box alpha) for Gaussian process models (including regression, classification, latent variable models, state space models and deep GPs).
 #- 06/2017 Current highlight: Streaming approximations for Gaussian process regression and classification [https://arxiv.org/abs/1705.07131 arxiv].
 #- 12-2016 Three extended abstracts have been accepted to NIPS workshops on approximate Bayesian inference and Bayesian deep learning.
 #- 06-09/2016 Internship @ Google (Machine Intelligence)
