@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 
 == Preprints
+- [https://arxiv.org/abs/2502.04750 Tighter sparse variational Gaussian processes] \n Thang Bui, Matthew Ashman, and Richard Turner
 - [https://arxiv.org/abs/2410.22685 Improving uncertainty quantification in large language models via semantic embeddings] \nYashvir Grewal, Edwin Bonilla, and Thang Bui
 - [https://arxiv.org/abs/2410.20754 Likelihood approximation via Gaussian approximate inference] \nThang Bui
 - [https://arxiv.org/abs/2202.12275 Partitioned Variational Inference: A Framework for Probabilistic Federated Learning]\nMatthew Ashman, Thang Bui, Cuong Nguyen, Stratis Markou, Adrian Weller, Siddharth Swaroop, Richard Turner\nNote: An old version of this is available [https://arxiv.org/abs/1811.11206 here].
