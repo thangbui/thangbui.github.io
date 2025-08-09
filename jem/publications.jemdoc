@@ -1,12 +1,14 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 
 == Preprints
-- [https://arxiv.org/abs/2502.04750 Tighter sparse variational Gaussian processes] \n Thang Bui, Matthew Ashman, and Richard Turner
+- [https://arxiv.org/abs/2507.02377 Sparse GPs: Structured approximations and Power-EP revisited] \nThang Bui and Michalis Titsias
+- [https://arxiv.org/abs/2506.07687 Rao-Blackwellised Reparam Gradients] \nKevin Lam, Thang Bui, George Deligiannidis, and Yee Whye Teh
 - [https://arxiv.org/abs/2410.22685 Improving uncertainty quantification in large language models via semantic embeddings] \nYashvir Grewal, Edwin Bonilla, and Thang Bui
 - [https://arxiv.org/abs/2410.20754 Likelihood approximation via Gaussian approximate inference] \nThang Bui
 - [https://arxiv.org/abs/2202.12275 Partitioned Variational Inference: A Framework for Probabilistic Federated Learning]\nMatthew Ashman, Thang Bui, Cuong Nguyen, Stratis Markou, Adrian Weller, Siddharth Swaroop, Richard Turner\nNote: An old version of this is available [https://arxiv.org/abs/1811.11206 here].
 
 == Conference and journal papers
+- [https://arxiv.org/abs/2502.04750 Tighter sparse variational Gaussian processes] \n Thang Bui, Matthew Ashman, and Richard Turner\n TMLR 2025
 - Grokking beyond neural networks: An empirical exploration with model complexity \n Jack Miller, Charles O'Neill, Thang Bui \n TMLR 2024
 - q-Paths: Generalizing the geometric annealing path using power means\n Vaden Masrani, Rob Brekelmans, Thang Bui, Frank Nielsen , Aram Galstyan, Greg Ver Steeg, and Frank Wood \n UAI 2021
 - [https://arxiv.org/abs/2006.05468 Variational autoregressive Gaussian processes for continual learning]\n Sanyam Kapoor, Theofanis Karaletsos, and Thang Bui \n ICML 2021 \n [https://github.com/uber-research/vargp code]
