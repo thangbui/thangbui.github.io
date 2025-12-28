@@ -7,7 +7,7 @@ I'm looking for PhD/MPhil students and postdoctoral fellows. Please see my resea
 ~~~
 
 == Bio
-I'm a lecturer (equivalent to tenure-track Assistant Professor) in Machine Learning at the [https://comp.anu.edu.au/ School of Computing], [https://www.anu.edu.au/ Australian National University] since July 2022.
+I'm a senior lecturer (equivalent to tenure-track Associate Professor) in Machine Learning at the [https://comp.anu.edu.au/ School of Computing], [https://www.anu.edu.au/ Australian National University].
 Before that, I was a lecturer at the University of Sydney from 2018 to 2022 and spent two years (2019-2020) at Uber AI.
 I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n
 
@@ -23,9 +23,9 @@ My current research interests include probabilistic modelling and inference, Mon
 - 7/2025 [https://arxiv.org/abs/2507.02377 Preprint: Sparse GPs: Structured approximations and Power-EP revisited] with Michalis Titsias
 - 6/2025 [https://arxiv.org/abs/2506.07687 Preprint: Rao-Blackwellised Reparam Gradients], led by Kevin Lam, with George Deligiannidis and Yee Whye Teh
 - 5/2025 [https://openreview.net/forum?id=L33DSu3zvq TMLR paper] with Matt Ashman and Rich Turner.
-- 2/2025 New preprint on [https://arxiv.org/abs/2502.04750 tighter sparse variational GP approximations] 
-- 11/2024 Attending a [https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461 Dagstuhl] workshop
-- 10/2024 Two preprints on [https://arxiv.org/abs/2410.22685 semantic entropy in LLMs] and [https://arxiv.org/abs/2410.20754 likelihood approximations]
+#- 2/2025 New preprint on [https://arxiv.org/abs/2502.04750 tighter sparse variational GP approximations] 
+#- 11/2024 Attending a [https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461 Dagstuhl] workshop
+#- 10/2024 Two preprints on [https://arxiv.org/abs/2410.22685 semantic entropy in LLMs] and [https://arxiv.org/abs/2410.20754 likelihood approximations]
 #- 2/2024 Paper on grokking accepted to TMLR. Congrats Jack and Charlie! 
 #- 1/2024 I gave a talk on grokking and probabilistic federated learning at VinAI in Vietnam
 #- 11/2023 Jack and Charlie present their work at the USyd ML reading group
