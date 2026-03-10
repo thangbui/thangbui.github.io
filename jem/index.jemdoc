@@ -17,6 +17,7 @@ My current research interests include probabilistic modelling and inference, Mon
 - *how to interpret models and algorithms* (for example, understanding behaviours in transformers or neural network training)
 
 == News
+- 3/2026 [https://arxiv.org/abs/2603.08257 Preprint: Beyond ReinMax: Low-Variance Gradient Estimators for Discrete Latent Variables], led by Daniel Wang
 - 3/2026 [https://arxiv.org/abs/2603.00877 Preprint: Active Flow Matching], led by Yashvir Grewal, with Daniel Steinberg, Cheng Soon Ong, and Edwin Bonilla
 - 10/2025 Awarded an ARC Discovery Project grant on diffusion models (with Sumeetpal Singh, Sahani Pathiraja, and Pierre Del Moral)
 - 10/2025 [https://openreview.net/forum?id=L33DSu3zvq TMLR paper] received a [https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d J2C] certification. 
