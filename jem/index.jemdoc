@@ -6,32 +6,22 @@
 I'm looking for PhD/MPhil students and postdoctoral fellows. Please see my research interests below, [/publications.html my publications] and read through [/vacancies.html this page].
 ~~~
 
-== Bio
-I'm a senior lecturer (equivalent to tenure-track Associate Professor) in Machine Learning at the [https://comp.anu.edu.au/ School of Computing], [https://www.anu.edu.au/ Australian National University].
-Before that, I was a lecturer at the University of Sydney from 2018 to 2022 and spent two years (2019-2020) at Uber AI.
-I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n
-
-My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual learning, and model-based reinforcement learning. My group currently focus on\n
-- *how to obtain uncertainty estimates* (for example, developing efficient approximate inference methods for Gaussian processes and neural networks)
-- *how to update models and uncertainty in changing environments* (for example, developing continual learning or unlearning methods for streaming data)
-- *how to interpret models and algorithms* (for example, understanding behaviours in transformers or neural network training)
-
 == News
 - 3/2026 [https://arxiv.org/abs/2603.08257 Preprint: Beyond ReinMax: Low-Variance Gradient Estimators for Discrete Latent Variables], led by Daniel Wang
 - 3/2026 [https://arxiv.org/abs/2603.00877 Preprint: Active Flow Matching], led by Yashvir Grewal, with Daniel Steinberg, Cheng Soon Ong, and Edwin Bonilla
 - 10/2025 Awarded an ARC Discovery Project grant on diffusion models (with Sumeetpal Singh, Sahani Pathiraja, and Pierre Del Moral)
-- 10/2025 [https://openreview.net/forum?id=L33DSu3zvq TMLR paper] received a [https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d J2C] certification. 
+- 10/2025 [https://openreview.net/forum?id=L33DSu3zvq TMLR paper] received a [https://medium.com/@TmlrOrg/tmlr-joins-neurips-icml-iclr-journal-to-conference-track-937a898eab3d J2C] certification.
 - 9/2025 Two papers accepted to NeurIPS!
 - 7/2025 [https://arxiv.org/abs/2507.02377 Preprint: Sparse GPs: Structured approximations and Power-EP revisited] with Michalis Titsias
 - 6/2025 [https://arxiv.org/abs/2506.07687 Preprint: Rao-Blackwellised Reparam Gradients], led by Kevin Lam, with George Deligiannidis and Yee Whye Teh
 - 5/2025 [https://openreview.net/forum?id=L33DSu3zvq TMLR paper] with Matt Ashman and Rich Turner.
-#- 2/2025 New preprint on [https://arxiv.org/abs/2502.04750 tighter sparse variational GP approximations] 
+#- 2/2025 New preprint on [https://arxiv.org/abs/2502.04750 tighter sparse variational GP approximations]
 #- 11/2024 Attending a [https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24461 Dagstuhl] workshop
 #- 10/2024 Two preprints on [https://arxiv.org/abs/2410.22685 semantic entropy in LLMs] and [https://arxiv.org/abs/2410.20754 likelihood approximations]
-#- 2/2024 Paper on grokking accepted to TMLR. Congrats Jack and Charlie! 
+#- 2/2024 Paper on grokking accepted to TMLR. Congrats Jack and Charlie!
 #- 1/2024 I gave a talk on grokking and probabilistic federated learning at VinAI in Vietnam
 #- 11/2023 Jack and Charlie present their work at the USyd ML reading group
-#- 2023 I was/will be an area chair for ICML 2023 and NeurIPS 2023, an action editor for TMLR, an editorial board member for ACM TOPML, and a publicity co-chair for AJCAI 2023. 
+#- 2023 I was/will be an area chair for ICML 2023 and NeurIPS 2023, an action editor for TMLR, an editorial board member for ACM TOPML, and a publicity co-chair for AJCAI 2023.
 #- 12/2022 I gave an invited talk at [https://continual-lifelong-learners.github.io/ the continual learning workshop, ACML 2022].
 #- 7/2022 I joined ANU as a tenure-track faculty member.
 #- 2/2022 New work on Bayesian federated learning, led by Matt Ashman is now available on [https://arxiv.org/abs/2202.12275 arxiv].
@@ -45,11 +35,11 @@ My current research interests include probabilistic modelling and inference, Mon
 #- 12-2016 Three extended abstracts have been accepted to NIPS workshops on approximate Bayesian inference and Bayesian deep learning.
 #- 06-09/2016 Internship @ Google (Machine Intelligence)
 #- 06/2016 Current highlight: Power-EP for sparse Gaussian processes for regression, classification, latent variable models [https://arxiv.org/abs/1605.07066 arxiv].
-#- 04/2016 Two papers accepted to ICML [http://arxiv.org/abs/1602.04133 Deep GPs] and [http://arxiv.org/abs/1511.03243 Black-box \alpha] + one workshop paper on Power-EP for GP state space models. 
+#- 04/2016 Two papers accepted to ICML [http://arxiv.org/abs/1602.04133 Deep GPs] and [http://arxiv.org/abs/1511.03243 Black-box \alpha] + one workshop paper on Power-EP for GP state space models.
 #- 03/2016 Current highlight: Deep Gaussian processes for regression [http://arxiv.org/abs/1602.04133 arxiv].
 #- 12-2015 Our work on Design of covariance functions using inter-domain inducing variables won the *Best Paper award* at [https://sites.google.com/site/nipsts2015/home the NIPS time series workshop]
 #- 11-2015 Five extended abstracts have been accepted to NIPS workshops on approximate Bayesian inference, black-box inference and time series. These are joint works with these awesome collaborators [http://jmhl.org/ José Miguel Hernández-Lobato], [http://dhnzl.org/ Daniel Hernández-Lobato], [http://yingzhenli.net/home/en/ Yingzhen Li], [http://www.cmm.uchile.cl/?cmm_people=felipe-tobar Felipe Tobar] and [http://cbl.eng.cam.ac.uk/Public/Turner/Turner Rich Turner].
-#- 09-2015 I helped Felipe Tobar and Rich with the experiments of this paper /Learning stationary time series using Gaussian Processes with nonparametric kernels/ which has been accepted to NIPS 2015 with *spotlight* presentation 
+#- 09-2015 I helped Felipe Tobar and Rich with the experiments of this paper /Learning stationary time series using Gaussian Processes with nonparametric kernels/ which has been accepted to NIPS 2015 with *spotlight* presentation
 #- 06/2015 I am a recipient of the [http://googleresearch.blogspot.co.uk/2015/06/announcing-2015-google-european.html 2015 Google European Doctoral Fellowship]
 #- 09-2014 /Tree structured Gaussian Process Approximations/ paper accepted to NIPS 2014 with *spotlight* presentation
 #- 05-2014 [http://cbl.eng.cam.ac.uk/Public/Turner/Turner Rich Turner] and I gave a talk on Advanced GP approximations at CUED\n
@@ -57,6 +47,16 @@ My current research interests include probabilistic modelling and inference, Mon
 #- 02-2014 [http://mlg.eng.cam.ac.uk/frellsen/ Jes Frellsen] and I gave a talk on Sequential Monte Carlo methods at CUED\n
 #- 01-2014 Attended the [http://ml.dcs.shef.ac.uk/gpss/gpws14/ Gaussian Process Winter School] in Sheffield\n
 #- 10-2013 Joined MLG, University of Cambridge
+
+== Bio
+I'm a senior lecturer (equivalent to tenure-track Associate Professor) in Machine Learning at the [https://comp.anu.edu.au/ School of Computing], [https://www.anu.edu.au/ Australian National University].
+Before that, I was a lecturer at the University of Sydney from 2018 to 2022 and spent two years (2019-2020) at Uber AI.
+I completed my doctoral training at the [http://mlg.eng.cam.ac.uk Cambridge Machine Learning group], supervised by [http://cbl.eng.cam.ac.uk/Public/Turner/WebHome Richard Turner] and advised by [http://learning.eng.cam.ac.uk/carl/ Carl Rasmussen].\n
+
+My current research interests include probabilistic modelling and inference, Monte Carlo and approximate inference methods, distributed, active and continual learning, and model-based reinforcement learning. My group currently focus on\n
+- *how to obtain uncertainty estimates* (for example, developing efficient approximate inference methods for Gaussian processes and neural networks)
+- *how to update models and uncertainty in changing environments* (for example, developing continual learning or unlearning methods for streaming data)
+- *how to interpret models and algorithms* (for example, understanding behaviours in transformers or neural network training)
 
 #== Talks
 #- Thang Bui, Learning by learning deep generative models, CUED
